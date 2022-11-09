@@ -10,6 +10,17 @@ namespace c_log_nums_solved
     {
         static void Main(string[] args)
         {
+            Lognums(5);
+
+            Console.ReadKey();
+
+        }
+        static int Lognums(int i) {
+            for (int f = 1; f <= i; f++) 
+            {
+                Console.WriteLine(f);
+            }; 
+            return 0;
         }
     }
 }

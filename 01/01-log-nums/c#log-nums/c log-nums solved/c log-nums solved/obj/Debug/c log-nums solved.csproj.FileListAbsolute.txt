@@ -1,0 +1,8 @@
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\01-log-nums\c#log-nums\c log-nums solved\c log-nums solved\obj\Debug\c log-nums solved.csproj.AssemblyReference.cache
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\01-log-nums\c#log-nums\c log-nums solved\c log-nums solved\obj\Debug\c log-nums solved.csproj.SuggestedBindingRedirects.cache
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\01-log-nums\c#log-nums\c log-nums solved\c log-nums solved\obj\Debug\c log-nums solved.csproj.CoreCompileInputs.cache
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\01-log-nums\c#log-nums\c log-nums solved\c log-nums solved\bin\Debug\c log-nums solved.exe.config
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\01-log-nums\c#log-nums\c log-nums solved\c log-nums solved\bin\Debug\c log-nums solved.exe
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\01-log-nums\c#log-nums\c log-nums solved\c log-nums solved\bin\Debug\c log-nums solved.pdb
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\01-log-nums\c#log-nums\c log-nums solved\c log-nums solved\obj\Debug\c log-nums solved.exe
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\01-log-nums\c#log-nums\c log-nums solved\c log-nums solved\obj\Debug\c log-nums solved.pdb
