@@ -1,0 +1,8 @@
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\arithmeticAlgo\arithmeticAlgo\obj\Debug\arithmeticAlgo.csproj.AssemblyReference.cache
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\arithmeticAlgo\arithmeticAlgo\obj\Debug\arithmeticAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\arithmeticAlgo\arithmeticAlgo\obj\Debug\arithmeticAlgo.csproj.CoreCompileInputs.cache
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\arithmeticAlgo\arithmeticAlgo\bin\Debug\arithmeticAlgo.exe.config
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\arithmeticAlgo\arithmeticAlgo\bin\Debug\arithmeticAlgo.exe
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\arithmeticAlgo\arithmeticAlgo\bin\Debug\arithmeticAlgo.pdb
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\arithmeticAlgo\arithmeticAlgo\obj\Debug\arithmeticAlgo.exe
+C:\Users\eeoer\Desktop\Coding\Algo Practice\01\arithmeticAlgo\arithmeticAlgo\obj\Debug\arithmeticAlgo.pdb
